@@ -1,9 +1,9 @@
 # Dark Arts Theme for Obsidian
 
-### Obsidian without the theme:
+### Stock Obsidian Theme:
 ![Dark Arts Off](https://github.com/VoltaireNoir/DarkArts/blob/master/Dark%20Arts%20off.png)
 
-### Obsidian with the theme:
+### Dark Arts Theme:
 ![Dark Arts On](https://github.com/VoltaireNoir/DarkArts/blob/master/Dark%20Arts%20On.png)
 
 ## Installation:
