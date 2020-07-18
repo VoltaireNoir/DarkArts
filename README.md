@@ -9,4 +9,4 @@
 ## Installation:
 - Download obsidian.css
 - Enable custom css in Obsidian
-- Copy the downloaded file to your vault directory (replace, if there is an exising file)
+- Copy the downloaded file to your vault directory (replace, if there is an existing file)
