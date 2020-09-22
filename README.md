@@ -2,7 +2,7 @@
 ![Dark Arts On](https://github.com/VoltaireNoir/DarkArts/blob/master/Dark%20Arts%20On.png)
 
 ### Translucency Enabled:
-![Dark Arts Off](https://github.com/VoltaireNoir/DarkArts/blob/master/Dark%20Arts%20off.png)
+![Dark Arts Off](https://github.com/VoltaireNoir/DarkArts/blob/master/Translucency%20Enabled.png)
 
 ## Installation:
 - Download [obsidian.css](https://github.com/VoltaireNoir/DarkArts/releases/tag/v1.0)
