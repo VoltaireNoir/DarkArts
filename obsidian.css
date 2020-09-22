@@ -42,6 +42,7 @@
   --purple: #c678dd;
   --blue: #61afef;
   --yellow: #e5c07b;
+  --black: #000000;
 }
 
 body {
@@ -56,18 +57,13 @@ body {
   color: var(--text-faint);
 }
 
-/*Note Title Color*/
-.workspace-leaf.mod-active .view-header-title{
-  color:#eeeeee;
-}
-
-.checkbox-container.is-enabled {
-  background-color: var(--aqua);
+.titlebar-inner {
+  color: var (var(--gray-2));
 }
 
 /*Divider color*/
 .markdown-preview-view hr {
-  background-color: #3e85a7;
+  border-color: var(--aqua);
 }
 
 /*Bullet list relatinship lines*/
@@ -99,7 +95,6 @@ li {
   
 }
 
-
 .document-search-button {
   color: var(--text-on-accent)
 }
@@ -113,6 +108,14 @@ li {
   background-color: var(--background-primary-alt);
   padding: 2px 4px;
   border-radius: 4px;
+}
+
+.checkbox-container {
+  background-color: #1d1d1d;
+}
+
+.checkbox-container.is-enabled {
+  background-color: var(--aqua);
 }
 
 .markdown-preview-view .task-list-item-checkbox {
@@ -133,7 +136,7 @@ li {
 
 .markdown-preview-view .task-list-item-checkbox:checked {
   border: none;
-  background-color: var(--aqua);
+  background-color: #3ea788;
 }
 
 .markdown-preview-view .task-list-item-checkbox:checked::before {
