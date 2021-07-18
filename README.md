@@ -5,11 +5,20 @@
 ![Dark Arts Off](https://github.com/VoltaireNoir/DarkArts/blob/master/Translucency%20Enabled.png)
 
 ## Installation:
-- Download [obsidian.css](https://github.com/VoltaireNoir/DarkArts/releases/tag/v1.0)
-- Enable custom css in Obsidian
-- Copy the downloaded file to your vault directory (replace, if there is an existing file)
+- Download [DarkArts.css](https://github.com/VoltaireNoir/DarkArts/releases/tag/v1.5)
+- Copy DarkArts.css (Core Theme) to .obsidian/themes/ durectory in your Obsidian vault
+  - Optional: Copy DarkArtsBluePill.css (Blue Accents) to .obsidian/snippets
+- Select DarkArts under Themes in Obsidian's appearance settings
+  - Optional: Enable DarkArtsBluePill under CSS Snippets in the appearance settings
 
 ## What's New?
+- Version 1.5
+  - Compatible with Obsidian 0.12.10
+  - Theme is split into two parts: 
+    1. Core theme with only white and red accents
+    2. A CSS snippet which brings back the blue accents in some places (same as the original)
+  - Fixed graph connection lines color
+  - Other minor fixes
 - Version 1.01
   - Everything now works with Obsidian Version 0.8.15
     - Fixed divider line color

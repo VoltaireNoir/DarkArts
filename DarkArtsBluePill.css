@@ -1,0 +1,23 @@
+.theme-dark {
+  --interactive-normal: #3e85a7;
+}
+
+/*Divider color*/
+.markdown-preview-view hr {
+    border-color: var(--interactive-normal);
+  }
+/*Block Quote Border Color*/
+.markdown-preview-view blockquote {
+    border-radius: 4px;
+    border: 1px solid var(--interactive-normal);
+    border-left-width: 5px;
+  }
+/* the enable/disable buttons */
+.checkbox-container.is-enabled {
+  background-color: var(--interactive-normal);
+}
+/* Check boxes */
+.markdown-preview-view .task-list-item-checkbox:checked {
+  border: none;
+  background-color: #3ea788;
+}
