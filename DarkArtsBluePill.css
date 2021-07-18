@@ -1,6 +1,9 @@
 .theme-dark {
   --interactive-normal: #3e85a7;
 }
+.theme-light {
+  --interactive-normal: #3e85a7;
+}
 
 /*Divider color*/
 .markdown-preview-view hr {
